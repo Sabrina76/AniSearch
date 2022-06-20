@@ -1,0 +1,6 @@
+framework module Pods_AniSearch {
+  umbrella header "Pods-AniSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}

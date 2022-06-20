@@ -1,0 +1,6 @@
+framework module Pods_AniSearchTests {
+  umbrella header "Pods-AniSearchTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
